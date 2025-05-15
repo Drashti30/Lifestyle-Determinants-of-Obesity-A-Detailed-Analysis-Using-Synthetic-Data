@@ -13,7 +13,7 @@ This project explores how demographic, behavioral, and lifestyle factors contrib
 
 ## 📁 Project Files
 
-- `Drashti_Mehta_Final_Project_Paper.pdf`: Full project report including methodology, hypothesis testing, Tableau dashboard summaries, and conclusions
+- `Lifestyle Determinants of Obesity A Detailed.pdf`: Full project report including methodology, hypothesis testing, Tableau dashboard summaries, and conclusions
 
 ## 📦 Tools Used
 
